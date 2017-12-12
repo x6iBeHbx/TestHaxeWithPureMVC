@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0c4d497ca5bc6c36ba7d848f9fa8a526:5d468ac77f9d26e91821957a727a2565:25a2456976bfe59cdd62c104b7067021$ -->
+<TextureAtlas imagePath="test.png" width="458" height="66">
+    <SubTexture name="cherry-symbol" x="397" y="1" width="60" height="64" frameX="-2" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="clover-chip" x="1" y="1" width="64" height="64"/>
+    <SubTexture name="diamond-chip" x="67" y="1" width="64" height="64"/>
+    <SubTexture name="heart-chip" x="133" y="1" width="64" height="64"/>
+    <SubTexture name="inclined-lemon (1)" x="199" y="1" width="64" height="64"/>
+    <SubTexture name="number-7" x="265" y="1" width="64" height="64"/>
+    <SubTexture name="spade-chip" x="331" y="1" width="64" height="64"/>
+</TextureAtlas>

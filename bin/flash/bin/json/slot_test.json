@@ -1,0 +1,13 @@
+{	"id":0,
+	"name":"test",
+	"fields":[{"id": 0,
+			"reels":[{"id":0, "reelLength":3, "speed":20, "diraction":0, "iconWidth":30, "iconHeight":30},
+			{"id":1, "reelLength":3, "speed":20, "diraction":0, "iconWidth":30, "iconHeight":30},
+			{"id":2, "reelLength":3, "speed":20, "diraction":0, "iconWidth":30, "iconHeight":30},
+			{"id":3, "reelLength":3, "speed":20, "diraction":0, "iconWidth":30, "iconHeight":30},
+			{"id":4, "reelLength":3, "speed":20, "diraction":0, "iconWidth":30, "iconHeight":30}
+	]}],
+	"resPath":[
+		"img/test.png","img/test.xml","img/slotBG.png"
+		]
+}
